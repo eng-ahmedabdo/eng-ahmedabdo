@@ -19,3 +19,14 @@
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=eng-ahmedabdo&theme=tokyonight_duo" alt="eng-ahmedabdo" /></p>
 <br>
 <br>
+## 📊 Github Stats
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+<p align="center">
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-ahmedabdo&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eng-ahmedabdo" /></p>
+<p align="center"> &nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=eng-ahmedabdo&show_icons=true&locale=en&theme=algolia" alt="eng-ahmedabdo" /></p>
+<br>
+## :trophy: Git profile Trophies
+<br>
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eng-ahmedabdo&theme=algolia" alt="eng-ahmedabdo" /></a> </p>
