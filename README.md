@@ -1,5 +1,11 @@
 <p align="center"> <img src="https://i.pinimg.com/originals/00/4b/17/004b173f6e3d6843df10114e087f30a8.gif" width="50" height="50" /> Hi there, I'm Ahmed Abdo👋❤️</h3>
 <h3 align="center">I'm flutter developer && UI/UX Designer && BackEnd developer.</h3>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile" /> </p>
+<br>
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
